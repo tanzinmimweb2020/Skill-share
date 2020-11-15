@@ -1,0 +1,76 @@
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .program h5{
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .program h2{
+  
+  font-weight: 400;
+  color: black;
+  font-size: 16px;
+}
+.program img{
+  height: 300px;
+}
+  .program .btn{
+  color:  #3722D3;
+    border-color: #3722D3;
+    padding: 4px 20px;
+    background: #ffff; 
+    font-weight: 500;
+    margin: 10px 0px;
+    font-size: 10px;
+}
+  
+}
+
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .program h5{
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .program h2{
+  
+  font-weight: 400;
+  color: black;
+  font-size: 16px;
+}
+.program img{
+  height: 300px;
+}
+  .program .btn{
+  color:  #3722D3;
+    border-color: #3722D3;
+    padding: 4px 20px;
+    background: #ffff; 
+    font-weight: 500;
+    margin: 10px 0px;
+    font-size: 10px;
+}
+.culture p{
+  font-size: 17px;
+}
+  .banner-content p{
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+  padding: 10px 0px;
+  
+}
+header{
+  padding: 150px 0px 100px;
+}
+.denton h5{
+  font-size: 14px;
+  
+}
+footer h1{
+  font-size: 25px;
+  font-weight: 700;
+  color: #fff;
+}
+}

@@ -1,0 +1,214 @@
+header{
+	background: url("../images/qwqswq.png");
+	background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+ padding: 230px 0px 140px;
+  background-attachment: fixed;
+
+}
+.navbar span{
+	font-size: 17px;
+	color: #00FF84;
+	font-weight: 700;
+}
+.navbar h5{
+	font-size: 19px;
+	font-weight: 700;
+}
+.navbar li{
+	padding: 0px 10px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  font-size: 16px;
+	font-weight: 400;
+	color: #fff;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+	color: #00FF84;
+}
+.navbar .btn-outline-success {
+    color: #002333;
+    background-color: #00FF84;
+}
+.navbar .btn-outline-success:hover {
+    color: #00FF84;
+    background-color: transparent;
+    border-color: #00FF84;
+}
+.banner-content h3{
+	font-size: 19px;
+	font-weight: 400;
+	color: #00FF84;
+	margin-bottom: 10px;
+	
+}
+.banner-content h1{
+	font-size: 35px;
+	font-weight: 700;
+	color: #fff;
+	
+}
+.banner-content p{
+	font-size: 16px;
+	font-weight: 400;
+	color: #fff;
+	padding: 10px 0px;
+	
+}
+
+.team h5{
+	font-size: 16px;
+	font-weight: 400;
+	color: #fff;
+	padding-bottom: 15px;
+
+}
+.teams h5{
+	font-size: 16px;
+	font-weight: 400;
+	color: #fff;
+	padding-bottom: 15px;
+
+}
+.teams .btn{
+    color:  #fff;
+    border-color: #fff;
+    padding: 7px 35px;
+  
+}
+
+.team .btn{
+    color:  #002333;
+    border-color: #002333;
+    padding: 7px 15px;
+    background: #00FF84;; 
+}
+.bor{
+	
+	border-left: 1px solid #fff;
+	
+}
+.customer img{
+ padding: 0px 15px;
+
+}
+.culture{
+	background: #F5F5F5;
+
+}
+.culture h2{
+	
+	font-weight: 400;
+	color: black;
+	
+
+
+}
+.culture .divider{
+	width: 10%;
+	height: 5px;
+   background-color: #3722D3;
+   margin: 20px auto;
+   border-radius: 10px;
+  
+}
+.culture .btn{
+	color:  #3722D3;
+    border-color: #3722D3;
+    padding: 7px 15px;
+    background: #ffff; 
+    font-weight: 500;
+}
+.program h2{
+	
+	font-weight: 400;
+	color: black;
+}
+.program .divider{
+	width: 20%;
+	height: 5px;
+   background-color: #3722D3;
+   
+   border-radius: 10px;
+   margin: 15px 0px;
+  
+}
+.program .btn{
+	color:  #3722D3;
+    border-color: #3722D3;
+    padding: 7px 25px;
+    background: #ffff; 
+    font-weight: 500;
+    margin: 10px 0px;
+}
+.program h5{
+	
+	font-weight: 400;
+	color: #647983;
+	font-size: 16px;
+	line-height: 32px;
+}
+
+
+.program .row{
+    --bs-gutter-x: 0;
+    
+}
+.program .con{
+	margin-left: 40px;
+	margin-right: 20px;
+	
+	
+
+
+}
+.denton{
+	padding: 40px 0px;
+}
+.denton h5{
+	font-weight: 400;
+	
+	font-size: 20px;
+	line-height: 30px;
+
+}
+.denton .img{
+	border-radius: 45px;
+}
+.denton h5{
+	font-weight: 400;
+	
+}
+footer{
+	background-color: #002333;
+	padding: 40px 0px 20px;
+}
+footer h1{
+	font-size: 40px;
+	font-weight: 700;
+	color: #fff;
+}
+footer .btn{
+    color:  #002333;
+    border-color: #002333;
+    padding: 7px 15px;
+    background: #00FF84;
+    font-weight: 500;
+    margin: 30px 0px;
+}
+footer ul li{
+	display: inline-block;
+
+}
+footer ul li a{
+	text-decoration: none;
+	color: #fff;
+
+
+}
+footer p {
+	color: #fff;
+	margin-bottom: 0;
+}
